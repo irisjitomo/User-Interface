@@ -64,3 +64,85 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+header nav{
+	display: inline-block;
+	margin-top:35px;
+}
+
+header .logo{
+	margin-left: 130px
+}
+
+header nav a{
+	margin: 0 20px;
+	color:gray;
+}
+.cta h3{
+	text-align: center;
+	font-size:80px;
+	width: 60px;
+    height: 60px;
+    padding: 60px;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.cta img{
+	margin-left: 500px;
+	margin-top: -345px;
+	margin-bottom: 105px;
+}
+.cta button{
+	background:white;
+	border: 1px solid black;
+	height: 35px;
+    width: 150px;
+    padding: 8px;
+    margin-top: 180px;
+    margin-left: 160px;
+}
+.top .content{
+	display: inline-block;
+	width: 45%;
+	margin:20px;
+}
+.content p{
+	margin: 2px;
+}
+.middle .middle-img{
+	text-align: inline block;
+	margin: 50px 60px 50px 10px;
+}
+.bottom .content{
+	display: inline-block;
+	width: 30%;
+	margin-left:20px;
+}
+.underline h3 {
+	margin-left: 50px;
+}
+.contact{
+	display: inline-block;
+	margin-left: 20px;
+}
+.contact .contact2{
+	margin:15px 0px 15px 0px;
+}
+.contact .address{
+	margin:15px 0px 15px 0px;
+}
+.contact .number{
+	margin: 15px 0px 15px 0px;
+}
+.contact .site{
+	margin: 15px 0px 15px 0px;
+}
+
+footer{
+	text-align: center;
+	margin-bottom: 50px;
+}
